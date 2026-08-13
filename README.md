@@ -1,2 +1,2 @@
-# Kaifanla-Releases
-开饭啦 Android APK 公开发布仓库
+# TasteMark-Releases
+随记TasteMark Android APK 公开发布仓库
